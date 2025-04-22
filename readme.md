@@ -100,5 +100,5 @@ airflow dags show demo --save demo.png
 
 # 작동결과
 * 코드 Graph 이미지 / 3번 Loop 버전
-* ![[demo.png]]
-* ![[demo_loop.png]]
+* ![demo.png](https://github.com/coport-uni/airflow2_demo_peal/blob/main/demo.png)
+* ![demo_loop.png](https://github.com/coport-uni/airflow2_demo_peal/blob/main/demo_loop.png)
