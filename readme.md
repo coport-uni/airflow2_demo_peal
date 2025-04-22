@@ -24,7 +24,7 @@ airflow users create \
     		--firstname y \
     		--lastname z \
     		--email m \
-    		--password pealauto
+    		--password pass
     		
 apt-get install graphviz
 pip install graphviz, pandas
